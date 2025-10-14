@@ -8,6 +8,7 @@ class GoodFriend {
     GoodFriend();
     void visit();
 
+  private:
     Building* building;
 };
 

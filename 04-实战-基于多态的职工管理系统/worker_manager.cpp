@@ -1,5 +1,4 @@
 #include <fstream>
-#include <ios>
 #include <iostream>
 using namespace std;
 
@@ -8,7 +7,6 @@ using namespace std;
 #include "boss.h"
 #include "employee.h"
 #include "manager.h"
-#include "worker.h"
 
 #define FILE_NAME "worker_file.txt"
 
